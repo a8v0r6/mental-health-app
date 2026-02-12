@@ -23,8 +23,6 @@ The app operates on a "Dual-Interface" logic:
 
     Payments: Razorpay React Native SDK
 
-    Compliance: Data residency on AWS Mumbai / GCP India regions.
-
  Key Features
 1. The "Talk Now" Engine
 
