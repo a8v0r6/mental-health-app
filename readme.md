@@ -1,7 +1,7 @@
-Mental Health App: On-Demand Therapy Platform ¿?¿?
+Mental Health App: On-Demand Therapy Platform 
 
 This is a cross-platform mobile application built with React Native to provide on-demand, affordable mental health support in India. The platform connects users with verified therapists in real-time, functioning as a gig-economy marketplace for mental wellness.
-¿? System Overview
+ System Overview
 
 The app operates on a "Dual-Interface" logic:
 
@@ -9,7 +9,7 @@ The app operates on a "Dual-Interface" logic:
 
     Therapist Side: Availability management (the "Go Online" toggle) and clinical session tools.
 
-¿? Tech Stack
+ Tech Stack
 
     Framework: React Native (with TypeScript)
 
@@ -25,7 +25,7 @@ The app operates on a "Dual-Interface" logic:
 
     Compliance: Data residency on AWS Mumbai / GCP India regions.
 
-¿? Key Features
+ Key Features
 1. The "Talk Now" Engine
 
     Real-time Ping: When a user hits "Talk Now," the system pings the top 3 available therapists based on language preference and specialty.
